@@ -15,10 +15,15 @@ An exploratory analysis of 51,290 order lines (2011 to 2014) from a global retai
 
 
 | 1 | **Sales and profit both grew, but the margin stayed flat**
+
 | 2 | **Profit per order line turns negative once discounts pass 20%** 
+
 | 3 | **Tables is the only loss-making sub-category** 
+
 | 4 | **EMEA earns a 5.4% margin** 
+
 | 5 | **Furniture earns half the margin of the other categories** 
+
 | 6 | **Southeast Asia is the lowest-margin region** 
 
 ![Sales and profit by year](images/01_yearly_sales_profit.png)
