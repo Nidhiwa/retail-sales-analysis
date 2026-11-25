@@ -11,8 +11,7 @@ An exploratory analysis of 51,290 order lines (2011 to 2014) from a global retai
 
 ## Key findings
 
-| # | Finding | Evidence in the notebook |
-|---|---|---|
+| # | Finding 
 | 1 | **Sales and profit both grew, but the margin stayed flat**
 | 2 | **Profit per order line turns negative once discounts pass 20%** 
 | 3 | **Tables is the only loss-making sub-category** 
