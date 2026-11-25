@@ -1,6 +1,6 @@
 # Global Retail Sales Analysis: Are We Growing Profitably?
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/retail-sales-analysis/blob/main/retail_sales_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Nidhiwa/retail-sales-analysis/blob/main/retail_sales_analysis.ipynb)
 
 An exploratory analysis of 51,290 order lines (2011 to 2014) from a global retailer, built around one business question from a VP of Sales:
 
@@ -44,7 +44,7 @@ An exploratory analysis of 51,290 order lines (2011 to 2014) from a global retai
 **Locally:**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/retail-sales-analysis.git
+git clone https://github.com/Nidhiwa/retail-sales-analysis.git
 cd retail-sales-analysis
 pip install -r requirements.txt
 jupyter notebook retail_sales_analysis.ipynb
