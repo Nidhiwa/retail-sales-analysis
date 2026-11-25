@@ -13,12 +13,12 @@ An exploratory analysis of 51,290 order lines (2011 to 2014) from a global retai
 
 | # | Finding | Evidence in the notebook |
 |---|---|---|
-| 1 | **Sales and profit both grew, but the margin stayed flat** | Sales $2.26M to $4.30M; profit $249K to $504K; margin stayed between 11.0% and 12.0% |
-| 2 | **Profit per order line turns negative once discounts pass 20%** | Average profit per line: +$72 (1-10%), +$28 (11-20%), -$43 (21-40%), -$90 (over 40%); discount and profit correlation is -0.32 |
-| 3 | **Tables is the only loss-making sub-category** | -$64K profit, and it has the highest average discount (29%, against 18% for Binders and 17% for Machines) |
-| 4 | **EMEA earns a 5.4% margin** | 12% to 13% in APAC, EU and US; shipping cost is about 11% of sales in every market, so shipping does not explain the gap |
-| 5 | **Furniture earns half the margin of the other categories** | 6.9% against 14.0% (Technology) and 13.7% (Office Supplies) |
-| 6 | **Southeast Asia is the lowest-margin region** | 2.0% margin on $884K of sales |
+| 1 | **Sales and profit both grew, but the margin stayed flat**
+| 2 | **Profit per order line turns negative once discounts pass 20%** 
+| 3 | **Tables is the only loss-making sub-category** 
+| 4 | **EMEA earns a 5.4% margin** 
+| 5 | **Furniture earns half the margin of the other categories** 
+| 6 | **Southeast Asia is the lowest-margin region** 
 
 ![Sales and profit by year](images/01_yearly_sales_profit.png)
 
